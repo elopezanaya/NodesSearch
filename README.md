@@ -6,10 +6,11 @@ NodesSearch
 For example:
 
 		                        	CAT
-  |                            |                         |
-BAT				                    DOG		                    STORE
-                     |                  |
-		                KAT			          GNAT
+		    |                            |                         |
+		   BAT				DOG		          STORE
+                    
+                                        |                  |
+		                        KA                GNAT
 
 
 returns nodes for [CAT, BAT, KAT, GNAT]
