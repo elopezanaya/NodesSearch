@@ -9,10 +9,9 @@ For example:
 		    _____________________________|__________________________
 		    |                            |                         |
 		   BAT				DOG		          STORE
-                    
-					_________|_________                                       
-                                        |                  |
-		                        KA                GNAT
+           _________|__________
+           |                  |
+	   KA                GNAT
 
 
 returns nodes for [CAT, BAT, KAT, GNAT]
